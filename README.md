@@ -1,4 +1,4 @@
-## move2hwmf (Move to Hello World Mother Fucker)
+## MOVE2HWMF (Move to Hello World Mother Fucker)
 
 **move2hwmf** est application en ligne de commande Windows qui revisite le programme "move" (deplacement de fichiers) de manière avancée avec un système de log et de copie multi-dossiers.
 
