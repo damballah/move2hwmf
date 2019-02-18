@@ -65,7 +65,7 @@ accès fichier(s), accès dossier(s)
 
 
 > Toutes ces erreurs sont inscrites dans le fichier de log et/ou
-> afficher dans la console.
+> affichées dans la console.
 
 **Pour afficher l'aide en mode console:**
 Tapez simplement `move2hwmf` à l'invite de commande puis ENTREE.
