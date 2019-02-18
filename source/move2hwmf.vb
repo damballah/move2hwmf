@@ -114,7 +114,7 @@ Module move2hwmf
         End If
 
 
-        'Etiquette suite (validation du lancement de la copie du fichie source vers le où les dossiers passés en paramètres'
+        'Etiquette suite (validation du lancement de la copie du fichie source vers le où les dossiers passés en paramètres)'
         '*******************************************************************************************************************'
 suite:
         i = 3
