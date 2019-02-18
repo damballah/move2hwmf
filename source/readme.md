@@ -10,7 +10,7 @@ Instructions<br>
 8°) Re-sauvegarder le projet<br>
 9°) Cliquer sur "Déboguer" puis sur "Générer move2hwmf"<br>
 10°) Se rendre dans le dossier "Documents\Visual Studio 2010\Projects\move2hwmf\move2hwmf\bin\Release"<br>
-11°) Créer un raccourci CMD et vidé la ligne correspondant à : "Démarrer dans : "<br>
+11°) Créer un raccourci CMD et vider la ligne correspondant à : "Démarrer dans : "<br>
 12°) Appliquer les changements et cliquer sur OK<br>
 13°) Double-cliquer sur l'icône de ligne de commande<br>
 14°) Lancer le programme en tapant : move2hwmf.exe<br>
