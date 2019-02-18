@@ -342,7 +342,7 @@ fin:
         L11 = "#1 [-dwc=y] où [-dwc=n] ---> (del when copied) permet de choisir si le fichier source est à supprimer où non après la copie"
         L12 = "#2 [-log=y] où [-log=n] ---> permet de créer un fichier de log où non : 'move2hwmf_log_date_du_jour.txt' dans le dossier du programme"
         L13 = "#3 [fichier_source]    ---> saisir le chemin du fichier source (jusqu'au fichier source lui-même)"
-        L14 = "#4 [dossier_de_destination1] ---> saisir le chemin du dossier de destination jusqu'à '\' (inclus)"
+        L14 = "#4 [dossier_de_destination1] ---> saisir le chemin du dossier de destination"
         L15 = "#5 [dossier_de_destination2] ---> saisir un second dossier de destination, voir un troisième où même plus en suivant la même méthode"
         L16 = ""
         L17 = "Exemple : move2hwmf -dwc=y -log=y c:\dossier\filetest.txt c:\dossier2 c:\dossier3 c:\dossier4"
